@@ -4,7 +4,7 @@ var gameState, score
 var bgMusic, resetButton, resetImg
 
 function preload() {
-  geoManImg = loadImage("Images/GeoMan.png")
+  geoManImg = loadImage("Images/geoMan.png")
   spikeImg = loadImage("Images/spike.png")
   tallRectImg = loadImage("Images/tallRect.jpg")
   mediumRectImg = loadImage("Images/mediumRect.jpg")
